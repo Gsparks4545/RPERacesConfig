@@ -1,6 +1,16 @@
 {
 	"RacesData":
 	{
+		"menutitle": "Choose Your Race",
+		"menuguide": "This is Information",
+		"buttontitles": [
+			"Website",
+			"Discord"
+		],
+		"buttonurls": [
+			"",
+			""
+		],
 		"racenames": [
 			"Human",
 			"Elf"
