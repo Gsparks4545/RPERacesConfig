@@ -1,0 +1,31 @@
+{
+	"RacesData":
+	{
+		"racenames": [
+			"Human",
+			"Elf"
+		],
+		"racedescriptions": [
+			"Conventional Human Race",
+			"Pointy Eared Tall Guys"
+		],
+		"statmodifiers": [
+			{
+				"stat": [
+					"Health",
+					"Stamina"
+				],
+				"amount": [ 50, 20 ],
+				"ispercent": [ false, false ]
+			},
+			{
+				"stat": [
+					"Weight",
+					"MeleeDamageMultiplier"
+				],
+				"amount": [ 200, 20 ],
+				"ispercent": [ false, false ]
+			}
+		]
+	}
+}
