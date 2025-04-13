@@ -20,6 +20,9 @@
       "Half Elf",
       "Half Orc"
     ],
+    "selectableRace": [
+      "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE"
+    ],
     "raceDescriptions": [
       "Humans are a diverse and adaptable race, found throughout the world. Known for their ambition and resilience, they can thrive in nearly any environment. Humans are quick learners, capable of mastering many crafts, professions, and skills. They are often seen as the mediators of the realm, forging alliances and influencing the course of history with their diplomatic nature. Though they lack the long lifespans of some other races, humans make up for it with sheer determination and ingenuity. Their diverse cultures and traditions have made them one of the most prominent and powerful races in the world.",
       "The High Elves, or Altmer, are a graceful and ancient race with an innate connection to magic. With their long lives and superior intellect, they have mastered the arcane arts and often see themselves as the keepers of knowledge and civilization. The High Elves are known for their elegance, wisdom, and often haughty demeanor, believing themselves to be the superior race. Their society is built upon strict traditions, reverence for the arts, and an obsession with perfection. Though their arrogance can make them seem distant, their magic and cultural influence are undeniable.",
