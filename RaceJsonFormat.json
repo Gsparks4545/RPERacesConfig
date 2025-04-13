@@ -31,71 +31,14 @@
       "Half-Orcs are the offspring of humans and orcs, often caught in a struggle between two very different cultures. Their towering stature and brutal strength make them formidable warriors, but their orcish blood also brings with it a sense of rage and unpredictability. Half-Orcs are often seen as outcasts, rejected by both humans and orcs alike. However, their tenacity and resilience have allowed them to carve out a place for themselves in the world. While their appearance and demeanor can be intimidating, many Half-Orcs have found honor and purpose in battle, earning the respect of those who once feared them."
     ],
     "statModifiers": [
-      {
-        "stat": [
-          "Health",
-          "Stamina"
-        ],
-        "amount": [50, 20],
-        "isPercent": [false, false]
-      },
-      {
-        "stat": [
-          "Weight",
-          "Melee Damage Multiplier"
-        ],
-        "amount": [200, 20],
-        "isPercent": [false, false]
-      },
-      {
-        "stat": [
-          "Health",
-          "Melee Damage Multiplier"
-        ],
-        "amount": [-200, 40],
-        "isPercent": [false, false]
-      },
-      {
-        "stat": [
-          "Food",
-          "Water"
-        ],
-        "amount": [200, 200],
-        "isPercent": [false, false]
-      },
-      {
-        "stat": [
-          "Health",
-          "Torpidity"
-        ],
-        "amount": [200, 20],
-        "isPercent": [false, true]
-      },
-      {
-        "stat": [
-          "Health",
-          "Melee Damage Multiplier"
-        ],
-        "amount": [50, 2],
-        "isPercent": [false, true]
-      },
-      {
-        "stat": [
-          "Health",
-          "Stamina",
-          "Oxygen"
-        ],
-        "amount": [-1, 2, 300],
-        "isPercent": [true, true, false]
-      },
-      {
-        "stat": [
-          "Weight",
-          "Melee Damage Multiplier"
-        ],
-        "amount": [250, 1],
-        "isPercent": [false, true]
-      }
+      "0,3,1/1,1,1/3,200,0",
+      "0,300,0/1,-100,0/5,200,0",
+      "0,50,0/1,2,1/6,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0"
     ]
   }
 }
